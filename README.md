@@ -24,7 +24,7 @@ CaesarCipher.sb
 Project Author: Franz Ayestaran
 
 Created: 25th March 2016
-Updated: 26th March 2016
+Updated: 11th March 2021
 
 Description:
 This project allows the user to encrypt text with a simple offset algorithm - also known as Caesar cipher. If you are using 13 as the key, the result is similar to an rot13 encryption.
